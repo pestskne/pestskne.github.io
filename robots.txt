@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://pestskne.github.io/sitemap/sitemap.txt
